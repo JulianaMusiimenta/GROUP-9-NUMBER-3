@@ -1,0 +1,27 @@
+nav {
+    color: black;
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+}
+nav a:hover{
+    color: greenyellow;
+}
+.flex-container > div {
+    background-color: aqua;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  
+.flex-container  {
+    display: flex,;flex-direction: column;
+  background-color: blueviolet;
+
+}
+h1{
+  color: brown;
+  font-size:xx-large;
+  text-decoration: underline;
+
+}
